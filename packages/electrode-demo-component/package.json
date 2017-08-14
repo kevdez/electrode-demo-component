@@ -1,6 +1,6 @@
 {
   "name": "electrode-demo-component",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "electrode-demo-component",
   "main": "lib/index.js",
   "author": {
