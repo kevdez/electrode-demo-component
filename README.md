@@ -35,7 +35,7 @@ Then open your browser to `http://localhost:3000`
 
 # publishing
 
-To publish your components, use `learn publish`.
+To publish your components, use `lerna publish`.
 
 You have to run it from `node_modules`.
 
